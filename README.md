@@ -4,13 +4,15 @@
 Cài đặt Visual Studio Code - Nếu chưa từng sử dụng
 <br>
 `BƯỚC 2: `
-Cài đặt NodeJS theo file hướng dẫn đính kèm sau đây
+Cài đặt Git và tạo tài khoản Github nếu chưa sử dụng.
 <br>
 `BƯỚC 3: `
-Sử dụng Git, clone respository này về máy tính để thực hành.
+Cài đặt NodeJS theo hướng dẫn của file đính kèm.
 <br>
 `BƯỚC 4: `
+Import / Clone Project theo hướng dẫn từ file đính kèm.
+<br>
+`BƯỚC 5: `
 Thực hiện theo hướng dẫn của Speaker - Instructor
 <br>
-
 <strong>CHÚC CÁC BẠN CÓ MỘT TRẢI NGHIỆM THẬT BỔ ÍCH TỪ KASE EDUTECH</strong>
