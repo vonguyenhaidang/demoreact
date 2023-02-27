@@ -1,7 +1,7 @@
 import { Link, Outlet } from 'react-router-dom';
 import { useEffect } from 'react';
 import './Layout.css';
-import pageLogo from '../images/logo1.png';
+import pageLogo from '../images/logo.png';
 function Layout() {
     useEffect(() => {
         window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
