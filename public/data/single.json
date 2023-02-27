@@ -1,0 +1,17 @@
+{
+        "single_product": [
+                {
+                        "id": 39,
+                        "name": "G-Shock GA-2000-1A2DR",
+                        "brand": "CASIO",
+                        "productNumber": "GA-2000-1A2DR",
+                        "image": "https://cdn3.dhht.vn/wp-content/uploads/2019/05/53_GA-2000-1A2DR-399x399.jpg",
+                        "gender": "Male",
+                        "glass": "Sapphire",
+                        "warrant": "2 Years",
+                        "dial": "33mm",
+                        "steps": "9.2 mm",
+                        "price": 564
+                }
+        ]
+}

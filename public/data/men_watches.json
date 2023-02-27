@@ -1,0 +1,83 @@
+{
+    "watches": [
+        {
+            "id": 24,
+            "name": "Doxa GrandeMetre D154TWH",
+            "brand": "DOXA",
+            "productNumber": "D154TWH",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/01/6_D154TWH-399x399.jpg",
+            "gender": "Male",
+            "glass": "Hardlex Crystal",
+            "warrant": "2 Years",
+            "dial": "29 mm",
+            "steps": "12.6 mm",
+            "price": 564
+        },
+        {
+            "id": 25,
+            "name": "Casio B640WD-1AVDF",
+            "brand": "CASIO",
+            "productNumber": "B640WD-1AVDF",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/08/37_B640WD-1AVDF-399x399.jpg",
+            "gender": "Male",
+            "glass": "Hardlex Crystal",
+            "warrant": "1 Year",
+            "dial": "24.5 mm",
+            "steps": "6 mm",
+            "price": 445
+        },
+        {
+            "id": 26,
+            "name": "Daniel Wellington DW00100245",
+            "brand": "DANIEL WELLINGTON",
+            "productNumber": "DW00100245",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/04/120_DW00100245-2-399x399.jpg",
+            "gender": "Male",
+            "glass": "Mineral Crystal",
+            "warrant": "2 Years",
+            "dial": "33mm",
+            "steps": "9.2 mm",
+            "price": 255
+        },
+        {
+            "id": 27,
+            "name": "Doxa D202SSV",
+            "brand": "DOXA",
+            "productNumber": "D202SSV",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/03/406_D202SSV-1-399x399.jpg",
+            "gender": "Male",
+            "glass": "Resin Glass",
+            "warrant": "1 Year",
+            "dial": "45 mm x 42.1 mm",
+            "steps": "8.2 mm",
+            "price": 325
+        },
+        {
+            "id": 28,
+            "name": "Doxa D202SGY",
+            "brand": "DOXA",
+            "productNumber": "D202SGY",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2018/03/52_D202SGY-1-399x399.jpg",
+            "gender": "Male",
+            "glass": "Hardlex Crystal",
+            "warrant": "2 Years",
+            "dial": "45 mm x 42.1 mm",
+            "steps": "5 mm",
+            "price": 765
+        },
+        {
+            "id": 29,
+            "name": "Tissot T103.310.36.111.01",
+            "brand": "TISSOT",
+            "productNumber": "T103.310.36.111.01",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/05/T103.310.36.111.01-399x399.jpg",
+            "gender": "Male",
+            "glass": "Hardlex Crystal",
+            "warrant": "2 Years",
+            "dial": "41.7 mm",
+            "steps": "5 mm",
+            "price": 234
+        }
+       
+    ]
+}

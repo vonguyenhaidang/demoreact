@@ -1,0 +1,82 @@
+{
+    "women_watches": [
+        {
+            "id": 1,
+            "name": "Casio  MTP-1302D-7A1VDF",
+            "brand": "CASIO",
+            "productNumber": "MTP-1302D-7A1VDF",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/09/35_MTP-1302D-7A1VDF.jpg",
+            "gender": "Female",
+            "glass": "Mineral Crystal",
+            "warrant": "1 Year",
+            "dial": "38.5mm",
+            "steps": "9.2 mm",
+            "price": 200
+        },
+        {
+            "id": 2,
+            "name": "Casio AE-1200WHD-1AVDF",
+            "brand": "CASIO",
+            "productNumber": "AE-1200WHD-1AVDF",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/07/AE-1200WHD-1AVDF.jpg",
+            "gender": "Female",
+            "glass": "Resin Glass",
+            "warrant": "2 Years",
+            "dial": "45 mm x 42.1 mm",
+            "steps": "12.5 mm",
+            "price": 325
+        },
+        {
+            "id": 3,
+            "name": "ORIENT SK RA-AA0B02R19B",
+            "brand": "ORIENT SK",
+            "productNumber": "RA-AA0B02R19B",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2019/07/RA-AA0B02R19B.jpg",
+            "gender": "Female",
+            "glass": "Mineral Crystal",
+            "warrant": "1 Year",
+            "dial": "41.7 mm",
+            "steps": "12.6 mm",
+            "price": 1550
+        },
+        {
+            "id": 4,
+            "name": "DANIEL WELLINGTON DW00100437",
+            "brand": "DANIEL WELLINGTON",
+            "productNumber": "DW00100437",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2021/10/DW00100437-699x699.jpg",
+            "gender": "Female",
+            "glass": "Mineral Crystal",
+            "warrant": "2 Years",
+            "dial": "20 mm x 26 mm",
+            "steps": "6 mm",
+            "price": 333
+        },
+        {
+            "id": 5,
+            "name": "TISSOT T109.210.33.031.00",
+            "brand": "TISSOT",
+            "productNumber": "T109.210.33.031.00",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/09/T109.210.33.031.00-699x699.jpg",
+            "gender": "Female",
+            "glass": "Sapphire",
+            "warrant": "2 Years",
+            "dial": "35 mm x 26 mm",
+            "steps": "9.2 mm",
+            "price": 454
+        },
+        {
+            "id": 6,
+            "name": "CASIO LTP-V001G-9BUDF",
+            "brand": "CASIO",
+            "productNumber": "LTP-V001G-9BUDF",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/08/LTP-V001G-9BUDF-399x399.jpg",
+            "gender": "Female",
+            "glass": "Mineral Crystal",
+            "warrant": "2 Years",
+            "dial": "22 mm x 26 mm",
+            "steps": "8.2 mm",
+            "price": 325
+        }
+    ]
+}

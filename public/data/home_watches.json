@@ -1,0 +1,82 @@
+{
+    "home_watches": [
+        {
+            "id": 71,
+            "name": "G-Shock GA-2000-1A2DR",
+            "brand": "CASIO",
+            "productNumber": "GA-2000-1A2DR",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2019/05/53_GA-2000-1A2DR-399x399.jpg",
+            "gender": "Male",
+            "glass": "Sapphire",
+            "warrant": "2 Years",
+            "dial": "33mm",
+            "steps": "9.2 mm",
+            "price": 564
+        },
+        {
+            "id": 72,
+            "name": "Doxa D150TCM",
+            "brand": "DOXA",
+            "productNumber": "D150TCM",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/05/111_D150TCM-399x399.jpg",
+            "gender": "Male",
+            "glass": "Resin Glass",
+            "warrant": "2 Years",
+            "dial": "38.5mm",
+            "steps": "10mm",
+            "price": 255
+        },
+        {
+            "id": 73,
+            "name": "ORIENT SK RA-AA0B02R19B",
+            "brand": "ORIENT SK",
+            "productNumber": "RA-AA0B02R19B",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2019/07/RA-AA0B02R19B.jpg",
+            "gender": "Female",
+            "glass": "Mineral Crystal",
+            "warrant": "1 Year",
+            "dial": "41.7 mm",
+            "steps": "12.6 mm",
+            "price": 1550
+        },
+        {
+            "id": 74,
+            "name": "DOXA D158SBK",
+            "brand": "DOXA",
+            "productNumber": "D158SBK",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/04/88_D158SBK-399x399.jpg",
+            "gender": "Female",
+            "glass": "Sapphire",
+            "warrant": "2 Years",
+            "dial": "29 mm",
+            "steps": "5 mm",
+            "price": 765
+        },
+        {
+            "id": 30,
+            "name": "Tissot T103.310.36.111.01",
+            "brand": "TISSOT",
+            "productNumber": "T103.310.36.111.01",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/05/T103.310.36.111.01-399x399.jpg",
+            "gender": "Male",
+            "glass": "Hardlex Crystal",
+            "warrant": "2 Years",
+            "dial": "41.7 mm",
+            "steps": "5 mm",
+            "price": 234
+        },
+        {
+            "id": 31,
+            "name": "CASIO LTP-V001G-9BUDF",
+            "brand": "CASIO",
+            "productNumber": "LTP-V001G-9BUDF",
+            "image": "https://cdn3.dhht.vn/wp-content/uploads/2017/08/LTP-V001G-9BUDF-399x399.jpg",
+            "gender": "Female",
+            "glass": "Mineral Crystal",
+            "warrant": "2 Years",
+            "dial": "22 mm x 26 mm",
+            "steps": "8.2 mm",
+            "price": 325
+        }
+    ]
+}
