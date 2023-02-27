@@ -33,7 +33,7 @@ function WomenList() {
                                         </div>
                                         <div className="card-body" >
                                             <h4 className="card-title zoom"><strong><Link to='/single' style={{ color: "#FFDB58" }}>{item.name}</Link></strong></h4>
-                                            <h5 className="card-text"><strong>Price :</strong><del> {item.price}$ </del>&nbsp;<i className="fas fa-arrow-right"></i> <strong style={{ color: "white" }}>{item.price - (item.price * 20 / 100)} $</strong></h5>
+                                            <h5 className="card-text"><strong>Price :</strong><del> {item.price}$ </del>&nbsp;<strong style={{ color: "white" }}>{item.price - (item.price * 20 / 100)} $</strong></h5>
                                             <p className="text-warning">
                                                 <i className="fa fa-star" aria-hidden="true"></i>
                                                 <i className="fa fa-star" aria-hidden="true"></i>
