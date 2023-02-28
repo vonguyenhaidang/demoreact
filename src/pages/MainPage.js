@@ -13,14 +13,12 @@ function IndexPage() {
 
     return (
         <>
-            <br />
             <div className="row">
                 <PageSlide />
             </div>
             <div className="row">
                 <img src={sale} width="100%" className="rounded" />
             </div>
-            <br />
             <div className="row">
                 <div className="card-deck">
                     {list.map(item =>
