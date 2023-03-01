@@ -1,5 +1,6 @@
 import SideBars from "./SideBars";
 import women from "../images/women.gif";
+import PageSlide from "./Slideshow";
 import { useEffect, useState } from 'react';
 import { Link } from "react-router-dom";
 function WomenList() {
@@ -12,7 +13,9 @@ function WomenList() {
     }, []);
     return (
         <>
-            <br />
+            <div className="row">
+                <PageSlide />
+            </div>
             <div className="row">
                 <img src={women} width="100%" className="rounded" alt="" />
             </div>
@@ -39,13 +42,13 @@ function WomenList() {
                                             <i className="fa fa-star" aria-hidden="true"></i>
                                             <i className="fa fa-star-half" aria-hidden="true"></i>
                                         </p>
-                                        <i><p className="card-subtitle">Make with <strong>{item.glass}</strong> with the dial of <strong>{item.dial}</strong> and the steps of <strong>
-                                            {item.steps}</strong> The <strong>{item.name}</strong> will provide <strong>{item.warrant}
-                                            </strong> of international Warranty.</p></i>
+                                        <i><p className="card-subtitle">Được chế tác từ <strong>{item.glass}</strong> với đường kính mặt <strong>{item.dial}</strong> với đường kính phụ <strong>
+                                            {item.steps}</strong>. Sản phẩm <strong>{item.name}</strong> sẽ được tặng gói bảo hành <strong>{item.warrant}
+                                            </strong> cho mỗi sản phẩm.</p></i>
                                     </div>
                                     <div className="card-footer text-muted border-0">
-                                        <Link to='/cart'><button type="button" className="btn btn-info"><i className="fas fa-credit-card"></i> Buy </button></Link>&nbsp;
-                                        <button type="button" className="btn btn-warning" onClick={() => { alert('Item added to cart'); }}><i className="fas fa-cart-arrow-down"></i> Add</button>
+                                        <Link to='/cart'><button type="button" className="btn btn-info"><i className="fas fa-credit-card"></i> Mua ngay</button></Link>&nbsp;
+                                        <button type="button" className="btn btn-warning" onClick={() => { alert('Item added to cart'); }}><i className="fas fa-cart-arrow-down"></i> Thêm vào giỏ</button>
                                     </div>
                                 </div>
                             </div>

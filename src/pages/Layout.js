@@ -18,15 +18,15 @@ function Layout() {
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className="navbar-nav mr-auto">
                                 <li className="nav-item active">
-                                    <Link className="nav-link nav1" to="/">Home<span className="sr-only">(current)</span></Link>
+                                    <Link className="nav-link nav1" to="/">Trang chủ<span className="sr-only">(current)</span></Link>
                                 </li>
                                 <li className="nav-item dropdown">
                                     <a className="nav-link dropdown-toggle nav1" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Products
+                                        Sản phẩm
                                     </a>
                                     <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <Link to="/products/men" className="dropdown-item nav1" href="#">Men Watches</Link>
-                                        <Link to="/products/women" className="dropdown-item nav1" href="#">Women Watches</Link>
+                                        <Link to="/products/men" className="dropdown-item nav1" href="#">Nam</Link>
+                                        <Link to="/products/women" className="dropdown-item nav1" href="#">Nữ</Link>
                                     </div>
                                 </li>
                             </ul>
